@@ -9,4 +9,4 @@ None of these scripts are made by me!!!
 
 
 
-If one of your scripts are here and you wish for it to be removed or properly creditted shoot me a message!
+If one of your scripts are here and you wish for it to be removed or properly credited shoot me a message!
