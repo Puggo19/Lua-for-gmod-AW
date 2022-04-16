@@ -1,4 +1,4 @@
-# Lua-for-gmod-AW
+# LUA-for-GMOD-and-AW
 
 
 A list of LUA scripts for gmod and aimware, possible update to other games in the future
